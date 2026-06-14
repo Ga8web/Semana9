@@ -1,0 +1,9 @@
+Sistema operativo: Es como el cerebro del computador porque hace que todo funcione y permite que los programas y el equipo trabajen correctamente.
+
+Node.js: Es una herramienta que permite que JavaScript funcione fuera del navegador en una computadora y con eso se pueden crear servidores que responden a los usuarios.
+
+Aplicación server.js: Es un archivo donde se escribe el código del servidor y ese código responde a las solicitudes de los usuarios en la web.
+
+Puerto: Es como una entrada con un número que identifica un servicio y permite que los usuarios se conecten al servidor.
+
+Logs: Es donde se guarda la información de errores que han tenido los usuarios y después se revisan para encontrar soluciones.
